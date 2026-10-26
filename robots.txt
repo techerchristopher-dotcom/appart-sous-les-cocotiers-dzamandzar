@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chambre-djamandzar.rentanoo.com/sitemap.xml
