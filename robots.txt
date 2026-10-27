@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chambre-djamandzar.rentanoo.com/sitemap.xml
+Sitemap: https://appart-sous-les-cocotiers-dzamandzar.rentanoo.com/sitemap.xml
